@@ -3,14 +3,6 @@ Applications of NLP in eCommerce to increase brand loyalty and enhance customer 
 
 
 
-
- 
-
-Tech_Nova: AI-Based Chatbot to reduce Operational Costs
-24.12.2021
-Nishant Wadhwani
-Machine Learning Engineer 
-
 Overview
 An enormous volume of text and voice data is generated each day. As per research, the amount of text data generated each day throughout the world is about 18 billion. How can we systemize this information to understand, summarize and analyze for useful insights ? The answer is Natural language processing - or simply NLP. Data science solutions can make an impactful difference in many ways. Technologies such as NLP can break the text data into components to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment. The machine can then decide which command to execute - based on the results of the NLP.
 
